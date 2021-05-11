@@ -1,6 +1,9 @@
-# AZ-Passion-Project
-
 # Does Media Perception on Artificial Intelligence in Healthcare Influence User Sentiment on Incorporating Artificial Intelligence in Dermatological Care?
+
+By: Audrey Zuckerman
+
+05/11/21
+
 
 Abstract
 
